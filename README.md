@@ -1,4 +1,4 @@
-# Semantic-Aware Proactive LLM Orchestration (SP-LLM) Simulator (with REAL GPT-4 Integration)
+# Semantic-Aware Proactive LLM Orchestration (SP-LLM) Simulator
 
 This project provides a full-featured Python simulation of the framework proposed in the paper "Semantic-Aware LLM Orchestration for Proactive Resource Management in Predictive Digital Twin Vehicular Networks."
 
