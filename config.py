@@ -15,7 +15,7 @@ PARAMS = {
     'vehicle_cpu_freq_ghz': 5,
     'vehicle_tx_power_mw': 200,
     'channel_noise_dbm': -110,
-    'num_vehicles_range':,
+    'num_vehicles_range': [10, 20, 30],
     'vehicle_speed_kmh': (60, 100),
     'task_size_bytes': (1000, 1500),
     'cpu_cycles_per_byte_mhz': 0.25,
